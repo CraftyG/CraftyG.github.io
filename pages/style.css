@@ -2,6 +2,9 @@ p {
   color: #f00;
   text-align: center;
 }
+div {
+  display: block;
+}
 .topnav {
   width:100%;
   background-color: #282A35;
