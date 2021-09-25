@@ -1,6 +1,5 @@
-p {
+.red {
   color: #f00;
-  text-align: center;
 }
 div {
   display: block;
