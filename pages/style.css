@@ -4,5 +4,6 @@ p {
 }
 .topnav {
   width:100%;
-  color: #282A35;
+  background-color: #282A35;
+  color: #F1F1F1;
 }
