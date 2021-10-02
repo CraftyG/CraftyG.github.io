@@ -2,8 +2,12 @@ div {
   display: block;
 }
 .topnav {
+  display:flex;
   width:100%;
   background-color: #282A35;
   color: #F1F1F1;
   font-family: 'Source Sans Pro', sans-serif;
+  justify-content:center;
+  align-items:center;
+  font-size:30px
 }
