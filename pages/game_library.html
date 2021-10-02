@@ -12,7 +12,15 @@
 <p class="red"> so far there isn't much to show yet, but i'll work on it.</p>
   <button onclick="myFunction()">Click Me</button>
   <br>
-  <button onclick="createDiv()">Make a div</button>
+  <div class="popup" id="popup-1">
+    <div class="overlay"></div>
+      <div class="content">
+        <div class="close-btn" onclick="togglePopup()">&times;</div>
+          <h1>gameTitle</p>
+          <p>Lorem ipsum dolor sit amet</p>
+      </div>
+  </div>
 
+  <button onclick="togglePopup()">Game</button>
 </body>
 </html>
