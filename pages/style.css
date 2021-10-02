@@ -11,3 +11,7 @@ div {
   align-items:center;
   font-size:30px
 }
+
+:root {
+--font-display: "Helvetica Neue";
+}
