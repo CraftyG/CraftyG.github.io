@@ -45,8 +45,8 @@ div {
 }
 
 @keyframes animatetop {
-  from {top: -300px; opacity: 0}
-  to {top: 0; opacity:1}
+  from {top: -30px;}
+  to {top: 0;}
 }
 
 .close {
