@@ -9,7 +9,7 @@ var span = document.getElementByClassName("close")[0];
                                           
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() {
-  modal.style.display = "none;
+  modal.style.display = "none";
 }
 
 // When ths user clicks anywhere outside the modal, close it
