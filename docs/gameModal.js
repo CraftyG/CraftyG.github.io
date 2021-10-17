@@ -2,13 +2,13 @@
 var modal = document.getElementById("gameModal");
 
 // Get the button that opens the modal
-var button = document.getElementById("gameBtn");
+var btn = document.getElementById("gameBtn");
 
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on the button, open the modal;
-gameBtn.onclick = function() {
+btn.onclick = function() {
   modal.style.display = "block";  
 }
 
