@@ -4,7 +4,7 @@ var datamap = new Map([
   [document.getElementById("gameBtn2"), document.getElementById("gameModal2")]
 ]);
 
-datamap.forEach((value key) => {
+datamap.forEach((value, key) => {
   doModal(key, value);
 });
 
