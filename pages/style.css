@@ -72,6 +72,11 @@ div {
 .gameModalOwns {
   background-color: #9C84EF;
 }
+
+h3 .gameModalOwns {
+  margin: 1px;
+  padding: 1px;
+}
 /* Game Library Modal Platforms*/
 .game-library-pc {
   background-color: #0EA8AA;
