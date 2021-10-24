@@ -74,8 +74,10 @@ div {
 }
 
 .gameModalOwns h3{
-  margin: 1px;
+  margin: 0px;
   padding: 1px;
+  text-align: center;
+  color: white;
 }
 /* Game Library Modal Platforms*/
 .game-library-pc {
