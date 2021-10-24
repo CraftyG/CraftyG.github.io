@@ -2,6 +2,13 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
+
 div {
   display: block;
 }
